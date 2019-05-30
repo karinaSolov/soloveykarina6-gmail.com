@@ -1,0 +1,162 @@
+body {background: url("../white-wood.jpg");
+}
+main {
+   width: 1400px;
+   height: 3150px;
+   margin: 0 auto;
+   background-color: #f4cbbd;
+ }
+
+nav{ display: 100px;
+	height: 100px;
+	background-color: #5c8a8a;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: white;
+	justify-content: space-between;
+	box-sizing: border-box;
+
+ }
+.img_nav {
+ 	height: 100px;
+ 	width: 500px;
+ 	float: left;
+ 	display: flex;
+ 	justify-content: space-around;
+
+ }
+ .img_nav img{
+ 	height: 100px;
+ 	 }
+ .nav_menu {
+ 	width: 600px;
+ 	float: right;
+ 	height: 100px;
+ 	margin: 0;
+ 	padding: 0;
+ }
+ .nav_menu ul{
+ 	list-style: none;
+ 	margin: 0;
+ 	padding: 0;
+ }
+ .nav_menu li{
+ 	font-family: Courier New;
+ 	color: white;
+ 	font-size: 18px;
+ 	display: inline-block;
+ 	text-align: center;
+ 	line-height: 100px;
+ 	position: relative;
+ 	margin: 0;
+ 	padding: 0;
+ 	text-decoration: none;
+ }
+ .nav_menu a{
+ 	color: white;
+ }
+ li:hover{
+ 	background: #ff9933;
+ 	cursor: pointer;
+ 	color: #402720;
+ }
+ .misto {
+ 	font-style:italic;
+ 	color: #8B0000;
+ 	font-size: 90px;
+ 	text-align: center;
+ 	text-shadow: 3px 2px #5c8a8a;
+ 	text-transform: uppercase;
+
+ }
+ 
+ 
+ .misto p{
+ 	font-size: 30px;
+ 	color: black;
+ 	text-align: left;
+ font-family: Courier New;
+ text-shadow: none;
+ font-weight: bold;
+text-transform: none;
+line-height: 0.9;
+
+ }
+ .misto img{
+ 	width: 1400px;
+
+ }
+ .den img{
+ 	width: 600px;
+ }
+
+ .opera {
+ 	color: black;
+ 	font-size: 20px;
+ 	text-align: right;
+ 	height: 400px;
+ 	width: 600px;
+float:right;
+font-family: Courier New;
+ }
+ .opera1{
+ 	height: 400px;
+ 	width: 600px;
+ 	float: left;
+ 	font-family: Courier New;
+ 	font-size: 20px;
+ }
+ .opera1 img{
+ 	width: 600px;
+ 	height: 400px;
+ 	float: left;
+ }
+.opera img{
+ 	width: 600px;
+ 	height: 400px;
+ 	float: left;
+ }
+ 
+ 
+.foto{
+	height: 300px;
+	width: 420px;
+	margin: 17px;
+	float: left;
+
+	
+	
+}
+.foto img {
+	width: 450px;
+}
+.foto1 {
+	font-family: Courier New;
+	color: black;
+	font-size: 20px;
+	height: 400px;
+	width: 450px;
+	float: left;
+	margin: 8px;
+}
+.foto2 {
+	font-family: Courier New;
+	color: black;
+	font-size: 20px;
+	height: 400px;
+	width: 450px;
+	float: left;
+	margin: 8px;
+}
+.foto3 {
+	font-family: Courier New;
+	color: black;
+	font-size: 20px;
+	height: 400px;
+	width: 450px;
+	float: left;
+	margin: 8px;
+}
+
+
+
